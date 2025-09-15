@@ -1,5 +1,5 @@
-monthly_income = float(input ("Enter your monthly income.")) # Input monthly income
-monthly_expenses = float(input ("Enter your monthly expenses.")) # Input monthly expenses
+monthly_income = float(input ("Enter your monthly income:")) # Input monthly income
+monthly_expenses = float(input ("Enter your monthly expenses:")) # Input monthly expenses
 
 monthly_savings = monthly_income - monthly_expenses # Calculate monthly savings
 print ("Your monthly savings is:", monthly_savings) 
